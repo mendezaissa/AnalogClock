@@ -1,0 +1,16 @@
+body
+{
+	background-color: #FF4D4D;
+}
+
+h1
+{
+	color: black;
+	text-align: center;
+}
+
+#canvas
+{
+	position: relative;
+	left: 750px;
+}
